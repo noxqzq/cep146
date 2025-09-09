@@ -45,7 +45,7 @@ macOS versions with Apple security update support. This is typically the latest 
 
 ### How to install and setup Visual Studio Code
 
-1) Go on https://code.visualstudio.com/ and press the "Download" button on the top right corner.
+1) Go on [code.visualstudio.com](https://code.visualstudio.com/) and press the "Download" button on the top right corner.
 
 2) After downloading the setup double click on it and launch it.
 
