@@ -1,4 +1,5 @@
 Roses are red,
-Violets are blue,
-Programming is fun,
+Violets are blue;
+Programming is - fun,
+Learning something is also fun
 And teamwork is too.
