@@ -27,7 +27,8 @@ In the situation of having a bigger team I think there might be even more chaos 
 
 The ideal way of keeping track who made which changes would be by writing comments next to the changes or by tracking who was last to commit a change to the file.
 
-### Design Your Solution
+### Solution Design
+![](8d739b4c-d2e3-4cb2-8855-35c2453d7222.jpg)
 
 #### Diagram of a proper version control system
 
@@ -46,6 +47,8 @@ The ideal way of keeping track who made which changes would be by writing commen
 ## Part C: Document Your Solution
 
 #### Version Control System on paper with Descriptions
+
+![](photo_5364309652310982088_y.jpg)
 
 #### 3 Problems for Part A that the System solves
 
@@ -72,3 +75,4 @@ If they collaborate with chaos it will be very messy but if they use an improved
 #### How does your design handle someone accidentally deleting the file?
 
 It uses a back-up archieving system to save previous versions.
+
