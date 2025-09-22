@@ -16,3 +16,8 @@ Welcome to my academic portfolio for [CEP146]!
 
 ## Projects
 Game in python using pygame called Dungeon Breakout.
+
+## Contact Me
+- [ ] tzhaken@senecapolytechnic.ca
+- [LinkedIn](https://www.linkedin.com/in/timur-zhaken-599b1b2b4/)
+- [GitHub](https://github.com/noxqzq)
