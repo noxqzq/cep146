@@ -1,9 +1,9 @@
 # Study Resources
 
 ## Useful Websites
-- [W3Resources](https://www.w3resource.com/) - Official GitHub documentation
-- [W3Schools]((https://www.w3schools.com/) - Learn Markdown syntax
-- [NeetCode](neetcode.io) - Git basics
+- [W3Resources](https://www.w3resource.com/) - Learn many programming languages
+- [W3Schools]((https://www.w3schools.com/) - Practive programming languages
+- [NeetCode](neetcode.io) - Solve problems related to coding
 
 ## Tools I Use
 - Text Editor: [VSCode]
